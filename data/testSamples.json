@@ -1,0 +1,8 @@
+{
+  "testSamples": [
+    {
+      "text": "To bring you the Reply Challenges, we use c _ _ _ _ _ _ s and s _ _ _ _ _ technologies. Some are necessary to help our website work p _ _ _ _ _ _ _ and can't be s _ _ _ _ _ _ off, and some are optional but support us and your experience.",
+      "correctAnswer": ["cookies", "similar", "properly", "switched"]
+    }
+  ]
+}
